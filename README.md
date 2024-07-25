@@ -4,7 +4,8 @@ Project #1 - Testcase and Test Plan for App.vwo.com
 Test Plan
 Testcases
 
-https://drive.google.com/drive/folders/11eAx342NHP1NGiqD_yQMAqfkZkbIjzNR
-![image](https://github.com/jothikac/SoftwareTestingProjects/assets/84712600/bb1595c4-9953-4a67-b3d2-4125ae0431bd)
+[Test Case for VWO.xlsx](https://github.com/user-attachments/files/16371609/Test.Case.for.VWO.xlsx)
+![image](https://github.com/user-attachments/assets/907a37d5-b2a7-4a8b-9e35-d9bfbef27677)
+
 
 
